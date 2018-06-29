@@ -1,0 +1,28 @@
+#container{
+
+    margin-right: 30px;
+    margin-left: 110px;
+    margin-bottom: 200px;
+}
+
+#jumbotron {
+    
+    
+    color: aliceblue;
+    margin-top: 40px;
+    text-align: center;
+    background-color: black;
+}
+
+#top-card-header {
+
+    background-color: steelblue;
+    color: aliceblue;
+}
+
+form {
+    margin: 20px;
+}
+
+
+
