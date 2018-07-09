@@ -1,8 +1,6 @@
-#container{
+.container{
 
-    margin-right: 30px;
-    margin-left: 110px;
-    margin-bottom: 200px;
+    margin-bottom: 100px;
 }
 
 #jumbotron {
@@ -21,7 +19,8 @@
 }
 
 form {
-    margin: 20px;
+    
+    margin: 40px;
 }
 
 

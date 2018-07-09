@@ -117,14 +117,19 @@ var config = {
   });
 
 
-//   $("#clear-train-schedule").on("click", function(event){
+    // Trying to setup a clear table function  //
 
-//     event.preventDefault();
+  // $("#clear-train-schedule").on("click", function(event){
 
-  
-//     database.ref().on("child_delete", function(childSnapshot) {
-//         console.log(childSnapshot.val());
+  //   event.preventDefault();
 
-//     });
+  //   database.ref().on("remove", function(childSnapshot) {
 
-//   });
+  //     ref.remove();
+
+
+  //       console.log(childSnapshot.val());
+
+  //   });
+
+  // });
